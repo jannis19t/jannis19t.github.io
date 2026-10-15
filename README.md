@@ -1,3 +1,5 @@
+https://jannis19t.github.io
+
 # Jannis — osobní portfolio
 
 Jednostránkové osobní portfolio webového vývojáře. Web představuje autora, jeho
@@ -45,6 +47,7 @@ portfolio/
 ├── index.html   # Obsah a struktura celé stránky
 ├── style.css    # Vzhled, layout, responzivita a animace
 ├── favicon.svg  # Ikona stránky
+├── AI-CITACE.md  # Citace použití AI a použité prompty
 └── README.md    # Dokumentace projektu
 ```
 
